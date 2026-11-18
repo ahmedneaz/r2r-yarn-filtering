@@ -1,0 +1,802 @@
+[
+  {
+    "path": "data/Hard_Yarn_Data/Test_1/raw.mat",
+    "sha256": "4ad8c5de3c8a840326538e42f2b7e0b5c286ac69fd5f687d39613abb8ad29d5b",
+    "bytes": 153433
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_1/raw_vs_kalman.mat",
+    "sha256": "c0e577c21119e4e95a25b3a4201126c437f83572aa4a7b9fd333a4c28f96edb6",
+    "bytes": 594572
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_1/raw_vs_rls.mat",
+    "sha256": "13632467fc35d9da6049c791a251f9285a2f99f68270a54f666da92d62d32ea6",
+    "bytes": 261398
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_1/sensor.mat",
+    "sha256": "cd08f9ab6b2c1e7da583f42346c4db1bf0f773e7720f6e315a9d5e06bac4d2bb",
+    "bytes": 586382
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_10/raw.mat",
+    "sha256": "06801f922f358879287b39ce585a6647621081d9f368152fae6092e86a9f3d49",
+    "bytes": 204290
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_10/raw_vs_kalman.mat",
+    "sha256": "2eb87c7037e0a8aa8a9d9347ed36f1a780aec1d702a11611af5b524c766af5d7",
+    "bytes": 789570
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_10/raw_vs_rls.mat",
+    "sha256": "b6e207308fd38fd3fe56ce23daa7c690409d7e4c2b364a561ada6054c8cdc679",
+    "bytes": 347062
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_10/sensor.mat",
+    "sha256": "aa07523404e696a3966059fdd81b2bd447b5cca3574fa6ffb2ec37dd11ee7044",
+    "bytes": 779623
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_11/raw.mat",
+    "sha256": "9333e9854637672e760a0c8511b8199eaf45c4efc61249f07c244ab9337f6c5c",
+    "bytes": 206446
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_11/raw_vs_kalman.mat",
+    "sha256": "1e14295a6af28d593e85db511b043ba01a3bed0313f99e2f778e90445b874dd5",
+    "bytes": 797397
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_11/raw_vs_rls.mat",
+    "sha256": "ff51ceb1fa60b56caa7c71e430300515d3d993468e020a26dda7475b73ebee38",
+    "bytes": 351876
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_11/sensor.mat",
+    "sha256": "f3c158e4bda80dc0b6dcff349099538f5a9bd609e2f40d7db68ab3d6186f1306",
+    "bytes": 787233
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_12/raw.mat",
+    "sha256": "c635ed5c3787d0ee8fc217031c1364e46fdd1145a5e509e37f3db439df29697e",
+    "bytes": 207147
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_12/raw_vs_kalman.mat",
+    "sha256": "2ce126eda8e205e8958238fcc4dfa74d58f8f548d17d7bde8e0ebe2e6f79875d",
+    "bytes": 803352
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_12/raw_vs_rls.mat",
+    "sha256": "b45e9957eef8afd0515ea1f883cc84f3344d1e1cab6a63ebece331b1057729c8",
+    "bytes": 353642
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_12/sensor.mat",
+    "sha256": "8a576d4351eb1813ba0c6237cf7b3898a90877f711563ff87d32974e0fcbf697",
+    "bytes": 791698
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_13/raw.mat",
+    "sha256": "aec1d1ea9e571f08777ca346917920af731dc0dbeec25588c1e78b832ecb631b",
+    "bytes": 207981
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_13/raw_vs_kalman.mat",
+    "sha256": "c251f1333324df73c1391c16eff3766b65d945e5676468bdf15b61eb0ceaa762",
+    "bytes": 807537
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_13/raw_vs_rls.mat",
+    "sha256": "63e75d871b4d49ffa4fcac1402152e7065adcb119421db480275e6ac06f50d9b",
+    "bytes": 355674
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_13/sensor.mat",
+    "sha256": "d5682a5a4690bc51593039db30997959d19a5517a5732453885c89b6db0719ab",
+    "bytes": 796529
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_14/raw.mat",
+    "sha256": "e5ab71b3f9ead8d48167e6bee6abaa619caedb8a43d12904c8a5c06f5be64cb8",
+    "bytes": 205317
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_14/raw_vs_kalman.mat",
+    "sha256": "71e45a8ccfbfdf0055b63cabf7cd2126d3b40f15b92d3315154859bb65111afe",
+    "bytes": 795758
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_14/raw_vs_rls.mat",
+    "sha256": "6aed48fb5b3d092bd46cbd75877e69f84c8dbec1881974339536f752fa1ba640",
+    "bytes": 349804
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_14/sensor.mat",
+    "sha256": "ed088bc45cefd34dbb6cd0775778458cc80eda2b060ed1fc5fb1d83989397f96",
+    "bytes": 785787
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_15/raw.mat",
+    "sha256": "e9e8415fa6452acecc6a10d9bbf7bcc2b806d98d9388f1dc679b701811a669fd",
+    "bytes": 203984
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_15/raw_vs_kalman.mat",
+    "sha256": "bd316ecf949c2027902324c0d6d96a7f656687de9f995cf18bd079376cf3ab6a",
+    "bytes": 791080
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_15/raw_vs_rls.mat",
+    "sha256": "0d1eb9f4094a8d41017106f0658ee1d8f94b5902150932d175b8b69c0705d65c",
+    "bytes": 346370
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_15/sensor.mat",
+    "sha256": "72885180e3a95be1642289a9e9ac906aa14678a50bf41f58d6b2e6c28438e9df",
+    "bytes": 782373
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_16/raw.mat",
+    "sha256": "9729c0e903a6773c177da019abb761b8127f7371bc33779e7f9bc8034c2c3cdd",
+    "bytes": 205038
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_16/raw_vs_kalman.mat",
+    "sha256": "d58d74cd9821f862960378cd901a9291140935ba36570b7717446b36298a206b",
+    "bytes": 788439
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_16/raw_vs_rls.mat",
+    "sha256": "fa5f96d2a0ff158e0c1a1480e402a3b39787ac6eb8ec09c6e05f8bf509455e34",
+    "bytes": 348998
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_16/sensor.mat",
+    "sha256": "024d5957ec4a0f2088ed1913a182e3deeacfae2398eeee63bc55a168fe252161",
+    "bytes": 778427
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_17/raw.mat",
+    "sha256": "539c35c846e6c012d36024636034269406c46f144d2120a01f66b931ffd2b64b",
+    "bytes": 207570
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_17/raw_vs_kalman.mat",
+    "sha256": "57353d14f276daa0158e35deb057aca4600d83d5540428d096c102a04b8f5d3a",
+    "bytes": 796035
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_17/raw_vs_rls.mat",
+    "sha256": "9d61c8571a26f7a6bc31f41eef8f1e8ba9668b1ca07aeccc5e2c6ad262471963",
+    "bytes": 354798
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_17/sensor.mat",
+    "sha256": "8e1838f991eb9422ff316800c6eef80255e5b5e329201ed9550b5252ce95205b",
+    "bytes": 785197
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_18/raw.mat",
+    "sha256": "a08f943fd45fd0f40112fb381f8076feca40ad7c6177d7ea5beb477d7115b4d0",
+    "bytes": 207702
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_18/raw_vs_kalman.mat",
+    "sha256": "da66df75fffb4ac98b2f0e8ecca8b9e6f3b12fa5cf7f41eac9685a13e77666e4",
+    "bytes": 805558
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_18/raw_vs_rls.mat",
+    "sha256": "e1236d9b26c3c8b7ea61abf7350ccf1f41d4a306e9cdfbd06c76c04dfe53b665",
+    "bytes": 355776
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_18/sensor.mat",
+    "sha256": "063a773f7b070b9eaeba3f5de015a85f6209c9c7585345f1639a7151f4bf9dde",
+    "bytes": 791476
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_19/raw.mat",
+    "sha256": "22ac10289bafccc5fb9880a4ec39e65473807d638cf9d4a8bcae0b20c2d2cae1",
+    "bytes": 207398
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_19/raw_vs_kalman.mat",
+    "sha256": "8e2da10c22a0eb1fd9874d6c3ab0aa0ec3b328d2256af6641a299baf537824ea",
+    "bytes": 804341
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_19/raw_vs_rls.mat",
+    "sha256": "c772f25f28b560932ca98debe7be907c1afd775b7bf673e0b842eab0a176a1b5",
+    "bytes": 355333
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_19/sensor.mat",
+    "sha256": "1dead81c1832bb35b531021a34f702ae76546fa37b114f5710622f1fbed995dd",
+    "bytes": 789842
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_2/raw.mat",
+    "sha256": "7f8b690df1c7a9da4b01bf2fda40e46d76955c83610289108ed907123226646e",
+    "bytes": 153085
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_2/raw_vs_kalman.mat",
+    "sha256": "106965e28a8cf6eadb36f47abbbc60abaf6571b0a479d483c9352559bce8d6ea",
+    "bytes": 593604
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_2/raw_vs_rls.mat",
+    "sha256": "af78c00718631434d908626ee66989b0c8847505e5b87859078f47f3dd49ef45",
+    "bytes": 261633
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_2/sensor.mat",
+    "sha256": "3b515948c1d904f09cc23fa17f1087a19760e1642997662eb0c599256a95c096",
+    "bytes": 584340
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_20/raw.mat",
+    "sha256": "a32eefc599eca8252217a356d5492dc3e14132b57ed0f5cb43ea880030692bae",
+    "bytes": 206222
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_20/raw_vs_kalman.mat",
+    "sha256": "520cb630afc9ac0ec63e8d6e912e0364bfdece3e16abfc86f345845a05b3dbe6",
+    "bytes": 799366
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_20/raw_vs_rls.mat",
+    "sha256": "fd96823e0a7ce03f2b2bb1d0a2bd0303da268cc8cc627257d50ae0d66c34fb5f",
+    "bytes": 352076
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_20/sensor.mat",
+    "sha256": "1b3b8cbe6d612e3af43f9f908f92b8992f9d0cba8e6d69cff4ed642640c5d242",
+    "bytes": 787743
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_3/raw.mat",
+    "sha256": "c21a9f082508fd5934f9028e99e67a885175fb946ccda03ba1d0bad3a588cb8f",
+    "bytes": 153467
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_3/raw_vs_kalman.mat",
+    "sha256": "a664ec75128d06b51a00c25b2a563508749d51a12dd8b36d0c1d6980b5d1daaa",
+    "bytes": 595779
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_3/raw_vs_rls.mat",
+    "sha256": "7a4d6cfab14de5cf517bbc8769ebd1ef09a4d42e3589a644838df1e1ba05da6a",
+    "bytes": 261262
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_3/sensor.mat",
+    "sha256": "a72d606d78e9d857c5edc8c3d515f62f25c0b5a010406f900587ea0b25cf148e",
+    "bytes": 587664
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_4/raw.mat",
+    "sha256": "ca865b617827356aee1acb79949f6d9d1c53ca7a912b9c6ef992be3e73fda74e",
+    "bytes": 154110
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_4/raw_vs_kalman.mat",
+    "sha256": "656f4ad6dfc62c42a0832cbbb1f6e45477357afd311fa3d3dcd15becb82735a3",
+    "bytes": 598819
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_4/raw_vs_rls.mat",
+    "sha256": "3796f6cc2da49cfe1137eeb36632d23aa979f58f99ff577bab6bf29ec7771a62",
+    "bytes": 263254
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_4/sensor.mat",
+    "sha256": "34e444766dd416262167f32d7d7ca77dc3009a2cc61a9d9a9fbbddff0c4c30d5",
+    "bytes": 589001
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_5/raw.mat",
+    "sha256": "50ac24519f75821e0e6d06ac5173cad1050d106b7ea221746efaf3477ab5e724",
+    "bytes": 152467
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_5/raw_vs_kalman.mat",
+    "sha256": "b8292db66aef5336ad5aa5c74f48cfceed43af49bca7d3dacd4652da1e2e3c12",
+    "bytes": 590763
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_5/raw_vs_rls.mat",
+    "sha256": "732a8440e79326028f16fcaeb8eeaf13ddce780c7ca0d62dc3644f445d9090c2",
+    "bytes": 259717
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_5/sensor.mat",
+    "sha256": "e1e63fce7d8a517f50ead4084e8b25c6bbe91beec73c914b6341190d4ba388ca",
+    "bytes": 581948
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_6/raw.mat",
+    "sha256": "3f0dbe1986824ffdb9468243c7447635d901ef8b1745b240ea4305efef99d572",
+    "bytes": 153570
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_6/raw_vs_kalman.mat",
+    "sha256": "8cd425f03756ca3795c032b6cf94aed32398e465085ffda0a9e3527f2d25eb73",
+    "bytes": 595386
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_6/raw_vs_rls.mat",
+    "sha256": "103ed25594d90e23a256c5348fe6375d92138b7b5fd1c4068170836485bef045",
+    "bytes": 262193
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_6/sensor.mat",
+    "sha256": "7fa6f24181d9df187caf32d533472e2328b76af64c649656d85ec98004427578",
+    "bytes": 585427
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_7/raw.mat",
+    "sha256": "3a0e6660d747214e9d64ae59c0d2cdb550c2dfc45d5680ee47c3ce57a9db477c",
+    "bytes": 156509
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_7/raw_vs_kalman.mat",
+    "sha256": "04cd0a0e260a51568538f67645d0ec587fe86d59c95e387777c88e4638de4b48",
+    "bytes": 606766
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_7/raw_vs_rls.mat",
+    "sha256": "848945062a84b0f71643dbf3be867095eba6e18140d4b8466b9cbb6342811476",
+    "bytes": 268352
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_7/sensor.mat",
+    "sha256": "cd68c89c9deb5c2a3e6e726b4a6f023f18d06422af00e3f6c38b2134f1cbb258",
+    "bytes": 599632
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_8/raw.mat",
+    "sha256": "beee4b817bf8fe9f4b16981a639ef701c5ed02d1396325d2963af7ed1467db17",
+    "bytes": 155952
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_8/raw_vs_kalman.mat",
+    "sha256": "e50aa35aa120461d3a4c2704420a93176f6f4838835cc88b5a08ea2023fdebf3",
+    "bytes": 605104
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_8/raw_vs_rls.mat",
+    "sha256": "5161b58d4a590a522b825f84ee453d98f311c0b43ef7e25b6dfc91e6e5275217",
+    "bytes": 267290
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_8/sensor.mat",
+    "sha256": "60e9a9f15baca092028e9187c5bcdb192feadf75b96edc38f64bbe86649a8bef",
+    "bytes": 597423
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_9/raw.mat",
+    "sha256": "00cdb896dcb8dbcff2af05b668e4e7531fdec6c6c68a0bccc280309922aee9a5",
+    "bytes": 309992
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_9/raw_vs_kalman.mat",
+    "sha256": "57f03ecdae9bc97294ce4413d61a61a2de0ddb66630b20b97f68b0e2907fed3f",
+    "bytes": 1198672
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_9/raw_vs_rls.mat",
+    "sha256": "c5a73426688eb516cd523a529d08aaf41ff65d0d7fdaee74223df7dbc6357289",
+    "bytes": 529724
+  },
+  {
+    "path": "data/Hard_Yarn_Data/Test_9/sensor.mat",
+    "sha256": "d7a758f144f06f27af4639a608e474c141c03f94e5e59db04b185d16604b7d69",
+    "bytes": 1179594
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_1/raw.mat",
+    "sha256": "02c35e5c8e66042a1fc837adaf84e88f1fa5c4ce2c731c1312d74e9f82759730",
+    "bytes": 302466
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_1/raw_vs_kalman.mat",
+    "sha256": "c9aa115fa497d3905d7f179ee51d4ffd3c4f283065d2661581f157051f8f0667",
+    "bytes": 1184160
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_1/raw_vs_rls.mat",
+    "sha256": "98bd87f80670fa7b2ff460523558bc5feea656631003d09c3fa81ada5773eb3b",
+    "bytes": 511205
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_1/sensor.mat",
+    "sha256": "9dba1f21179098fca954898ec803d58ca7bf6167a1eceb9e96a95f94a11100ee",
+    "bytes": 1151466
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_10/raw.mat",
+    "sha256": "4ceecfa7f707078ed6f943ea8e8960fee82d3b0c423d3d262611ca9674eb8c88",
+    "bytes": 306015
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_10/raw_vs_kalman.mat",
+    "sha256": "4fbd0f8f60a63d71908e55fd50aa6b89c34eb65bd622c905b84d977d766ce4e8",
+    "bytes": 1201807
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_10/raw_vs_rls.mat",
+    "sha256": "01f5bc3ecd7a5e432beeb735032ac98ff7b58f26ac740a57704d6f9c206cb5c0",
+    "bytes": 522304
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_10/sensor.mat",
+    "sha256": "b8769e8258a588315d63d95d5ad798c4ea17aff346d7a98cce44c31d4f4e3c63",
+    "bytes": 1166458
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_11/raw.mat",
+    "sha256": "674287b8d6fcd2027092761b5ace25d3acf5db164eb240c5dfe75db89f68561d",
+    "bytes": 308115
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_11/raw_vs_kalman.mat",
+    "sha256": "0185c9e9565d4d62a55a4b37f6413506a3ec5ef256ff0d19eb296a0fc01a8f7c",
+    "bytes": 1211940
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_11/raw_vs_rls.mat",
+    "sha256": "0373d818d2f8fb635fb109a45ca449d9f65b2865ded8dea6090648a2045992d5",
+    "bytes": 526649
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_11/sensor.mat",
+    "sha256": "ac7da037fae3ed40ef10d0f9a8d106565e6214a57366066b674e0e11bc4407e1",
+    "bytes": 1182864
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_12/raw.mat",
+    "sha256": "31e04ba85ecb4bc02d87ad3b81d49b848b88fcab1a9914c2d28eb1f7209d7367",
+    "bytes": 307947
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_12/raw_vs_kalman.mat",
+    "sha256": "249a595d8d9e1cf333955c83cd086584864a4c19c1b85571fe5c7c619663f0ce",
+    "bytes": 1211344
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_12/raw_vs_rls.mat",
+    "sha256": "6c9f439a402f482e9af79e72e2d2ee83a453d04a07eb4ceba5bf3bc261035be0",
+    "bytes": 526118
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_12/sensor.mat",
+    "sha256": "772145eb46c04b0e7227b177c891e9d1fbd672d221d878723d010bedd274565d",
+    "bytes": 1181385
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_13/raw.mat",
+    "sha256": "1cd09c1e75338cc3572ee6eb9fe742ba9a66c87dc76bb7e8e819a2393b2df692",
+    "bytes": 306434
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_13/raw_vs_kalman.mat",
+    "sha256": "786a24ce831899d744d53005c9040cfdad20992f15ee1c860da04952815cbada",
+    "bytes": 1205405
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_13/raw_vs_rls.mat",
+    "sha256": "f9f7a8f33a4533c0c6fbf900f692db2d82baf2c1f5a4bce8a1c4e12156835214",
+    "bytes": 523824
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_13/sensor.mat",
+    "sha256": "0f716a538e96691fc356d5752cae7cec76b8665e599b6027d5116060ec51d217",
+    "bytes": 1169393
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_14/raw.mat",
+    "sha256": "383a79790ff815380f0667cffb09a79d2d104521db54d5ad482d6b69f6c0ef17",
+    "bytes": 309498
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_14/raw_vs_kalman.mat",
+    "sha256": "3b6349de03083d7fcdf642c59229f49d28f88949a00dd00845dca09ce049a477",
+    "bytes": 1213708
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_14/raw_vs_rls.mat",
+    "sha256": "7f219bb5f7c7a9a71aaeed27440a1d642993167b4ae8ad2276d2b51a478102ba",
+    "bytes": 529674
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_14/sensor.mat",
+    "sha256": "2dcd6698747fb8a5cad3ad83454f923d64818c5e20261ff406ccaf8d9adb5db4",
+    "bytes": 1183985
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_15/raw.mat",
+    "sha256": "ccfc9fb156da3c2d8bb48f03244f4cf3d39143b29f3c129a37aaf58818b03b61",
+    "bytes": 205656
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_15/raw_vs_kalman.mat",
+    "sha256": "1d5b15cb0f490cefe7dbe59ff4b1d2e9715990533c9365283ee96db9c4667f9c",
+    "bytes": 801306
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_15/raw_vs_rls.mat",
+    "sha256": "94b4be46c04c9a9bcb6c977bd4273507882ddee9a6edfc2fef2397f0f6fa9ef5",
+    "bytes": 349996
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_15/sensor.mat",
+    "sha256": "3c9bc8f6e8baed8b9bcd38a25ea64a33b95c7a3a49dce38a3158f6f39f69bfdd",
+    "bytes": 783282
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_16/raw.mat",
+    "sha256": "f884ec5c1b7bf4e53ad7e6c2055856b7484f1f69bf3cb9319bf5d14e1814a721",
+    "bytes": 205520
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_16/raw_vs_kalman.mat",
+    "sha256": "1d3906793d795239d858555a4e104ed66f540c31e95cc9b1b27504a21c39a442",
+    "bytes": 805265
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_16/raw_vs_rls.mat",
+    "sha256": "8796505a9c6ed953058179c3f9acf87228dc17118d94611fab27dbb84bd015f0",
+    "bytes": 349810
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_16/sensor.mat",
+    "sha256": "0957751970df047d3ae4e88334fb04e0c9959fe477295aa6fefb71c8b22bd4b4",
+    "bytes": 790923
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_17/raw.mat",
+    "sha256": "3bb68df561fa90e2482a3e91864781bb664f1e463be5bc7328429a035b574b0a",
+    "bytes": 200941
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_17/raw_vs_kalman.mat",
+    "sha256": "7f4611cb54683fdf8a6037ade879f3b4721c2850602c1bc139c81afcd5d750fe",
+    "bytes": 803097
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_17/raw_vs_rls.mat",
+    "sha256": "cb54f5d60a707bb3191621fed5b5f30057ff03a05acbb04f433c043892fbc6ef",
+    "bytes": 341928
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_17/sensor.mat",
+    "sha256": "067a1e43f789139de73120ec4a0f20662fb430150797e9422a636f8d362e8205",
+    "bytes": 788662
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_18/raw.mat",
+    "sha256": "9ffb064b9e43e2a17b38cb7094b143c93156d3e9f2ed59d999bbd52bd7d19cf7",
+    "bytes": 205102
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_18/raw_vs_kalman.mat",
+    "sha256": "77d682cba38982ab47b6cdf1694c01d878f0e0313099099fc2832893711b6e15",
+    "bytes": 804399
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_18/raw_vs_rls.mat",
+    "sha256": "549acdafc6ec245c41f063178c26567f83e638e03c6dc24a31ff67aeefc3040a",
+    "bytes": 349132
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_18/sensor.mat",
+    "sha256": "ed27ecbefeb6b583ceb5093eb8fbb998135d9e68628964e4836e937fa730241d",
+    "bytes": 788558
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_19/raw.mat",
+    "sha256": "b2a0f22656593144deac3655f37a84a896bcd08afaff2af3486d2681adc7d6cf",
+    "bytes": 206962
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_19/raw_vs_kalman.mat",
+    "sha256": "06c51cee072d8da92f1e2d5720abff6fe717dddb69ad6230369286db5ae1121d",
+    "bytes": 807996
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_19/raw_vs_rls.mat",
+    "sha256": "89690463c1a0575a231cfdf7713deb77ac94009548384055c2e122d89011721a",
+    "bytes": 353562
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_19/sensor.mat",
+    "sha256": "ab9d651aa502bcc2bec0137e915192bded8142aebb277262179fdced71580e3e",
+    "bytes": 789725
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_2/raw.mat",
+    "sha256": "f2f0849c002e344dbbe2959cb3294d27bed85cb552bfd918d31825481c41d4e9",
+    "bytes": 300812
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_2/raw_vs_kalman.mat",
+    "sha256": "bf126dc4cf80c259a18fd4d3ca5393104f0cc9ba6e4896c4ada59e8735df46b8",
+    "bytes": 1179154
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_2/raw_vs_rls.mat",
+    "sha256": "2bdd221604cdd785582f80fba190743d2426884e84116e9394f475d9dc902292",
+    "bytes": 508083
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_2/sensor.mat",
+    "sha256": "451a39b379f1ad72c45bf9228f95ee3a42efc5bf8fa38019ac96488f6ed74608",
+    "bytes": 1147668
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_20/raw.mat",
+    "sha256": "caf2273561e47e20b8f7b1e981a833febe21abb8c6319f07075fab3cb549b692",
+    "bytes": 200362
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_20/raw_vs_kalman.mat",
+    "sha256": "025162d2e39d136789b22859e5cfafc83bb433db0c42a51a1eb2dc8308302ecf",
+    "bytes": 800498
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_20/raw_vs_rls.mat",
+    "sha256": "6da77ed4ec89ccdc1145b28bbe30f95a01c9717ca386699b1cf005b0ab9802f1",
+    "bytes": 337141
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_20/sensor.mat",
+    "sha256": "33187c0ce4a72e729fdb21663face23dcc33d35a4393e0f28f6022dc6047442f",
+    "bytes": 785712
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_3/raw.mat",
+    "sha256": "4216ff2d59a202665406ed6810ae3638acf8d15295d9186300092d112ea3c43b",
+    "bytes": 300674
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_3/raw_vs_kalman.mat",
+    "sha256": "0bdc01194c8a903c742503d0c9555791a20c15251db703ef781a31ac44aff3d2",
+    "bytes": 1169168
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_3/raw_vs_rls.mat",
+    "sha256": "1228285a04ffa275911462d1e98a0d89633ad7de47e847a26a6b28bd9242a6dc",
+    "bytes": 504132
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_3/sensor.mat",
+    "sha256": "00bba9105e93e11b835ed07cc9c8e691957f354dcf11e1121c731637c0d3a988",
+    "bytes": 1146010
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_4/raw.mat",
+    "sha256": "192586483ec95a2ae2c47034495cce28088a692bc908def05557cf5f5b24fcb9",
+    "bytes": 305537
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_4/raw_vs_kalman.mat",
+    "sha256": "e2a64ebf7b158daf0ab0f391e5fe753e7dd6e9e8aec48a493261a5cc1da51de7",
+    "bytes": 1187237
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_4/raw_vs_rls.mat",
+    "sha256": "226ccf3ab447c8e786577539fea2d6e6486e594cedd767d8519b60ec48e6f30d",
+    "bytes": 516623
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_4/sensor.mat",
+    "sha256": "aacda8e0bcaa24435ec2109d170a99fca530545d282839a911f33c60f4db651e",
+    "bytes": 1154685
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_5/raw.mat",
+    "sha256": "6a70b378e414352adf9cbd2d004e5404148ce23905804fda61f395b1857eae39",
+    "bytes": 307420
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_5/raw_vs_kalman.mat",
+    "sha256": "66bae3f7d07246d0ccda953b58b1f48153bcd1c32ca6605ce11de106433e9214",
+    "bytes": 1209995
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_5/raw_vs_rls.mat",
+    "sha256": "5564313f9c2c22fab052dfee77c732c877886cf0294ae2ce34bd97dc4bde84cc",
+    "bytes": 525610
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_5/sensor.mat",
+    "sha256": "1fd0676603349927cdedac2d127bb5dab4c473e1125a9ed270be35a081ea4067",
+    "bytes": 1178495
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_6/raw.mat",
+    "sha256": "4e92458613b833d70ab780b84bd7069cab73f9d2cfc0a02b1bc7345497227a3f",
+    "bytes": 306552
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_6/raw_vs_kalman.mat",
+    "sha256": "51a0a845d9483621f506724f18aa24eabed12d2404ab3a5d139ff1505c7441b9",
+    "bytes": 1205401
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_6/raw_vs_rls.mat",
+    "sha256": "946868c54e3fe6bb9122240fe54c9ee53a7c3fe35901c8fbfbcd06c1c7e51a19",
+    "bytes": 523436
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_6/sensor.mat",
+    "sha256": "e157f1534d1f7824398b5d524a2cd4905bc192bd21640890002b66e9049c1211",
+    "bytes": 1169040
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_7/raw.mat",
+    "sha256": "20f58af74b1df8709e072a8f63388e5acb91ac3ee50b53b8db3dc2b9dd3046cb",
+    "bytes": 306743
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_7/raw_vs_kalman.mat",
+    "sha256": "494c925a8ed45534b53916e06d12a55f090efdc1caa3004ed58f401b4e98b2fb",
+    "bytes": 1205424
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_7/raw_vs_rls.mat",
+    "sha256": "d4b86b77605cecbf785169c743cd2a120b3e9921b21361153dcba123479e79d0",
+    "bytes": 523827
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_7/sensor.mat",
+    "sha256": "1d706263ac3655cf9517d5807d1f3d9d8603bdcd6883fd713af5cf246a54b405",
+    "bytes": 1170251
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_8/raw.mat",
+    "sha256": "c4c2192870d404062f194559d1db10e47528a600df6637471754ab1ea6f85ba9",
+    "bytes": 305788
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_8/raw_vs_kalman.mat",
+    "sha256": "e998b5f23a447cc9127bd7922a2a04b6dbff86e0046baa95dde8a03093519393",
+    "bytes": 1204702
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_8/raw_vs_rls.mat",
+    "sha256": "ea77967f60a520abe9c1358bc0387f4827ba8b05b93c115c62d5cecec2b033d0",
+    "bytes": 522283
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_8/sensor.mat",
+    "sha256": "5e6239b5158d8fc8eca33ebe298726aacafdbe12653f0e727c15e559fddc83cf",
+    "bytes": 1169515
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_9/raw.mat",
+    "sha256": "804881819e49bd9f5cac2013695783810c963e640c933035aad09a84b6cd1fa5",
+    "bytes": 305424
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_9/raw_vs_kalman.mat",
+    "sha256": "5f49eeea5e1b5282652cb1b8f019b914c05a05607e8bb0e92d46227b88b7ad07",
+    "bytes": 1204277
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_9/raw_vs_rls.mat",
+    "sha256": "39dcda9f6f16c252e7696a82dadf91add6a83d33fb5b2084cc23afa517d37290",
+    "bytes": 520049
+  },
+  {
+    "path": "data/Soft_Yarn_Data/Test_9/sensor.mat",
+    "sha256": "4f3e8edce771914a245a09cd86e8d2f0689dbac736bf0b828a5008a1a4bf91ad",
+    "bytes": 1169936
+  }
+]

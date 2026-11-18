@@ -1,0 +1,155 @@
+{
+  "scope": "Implemented constants from the supplied functions; units reflect the author-supplied model. See docs/PROVENANCE.md.",
+  "sampling_period_s": 0.001,
+  "calibration": "Both filters calibrated on higher-stiffness yarn; retained for lower-stiffness yarn.",
+  "kf": {
+    "states": [
+      "omega_u",
+      "omega_r",
+      "T"
+    ],
+    "inputs": [
+      "tau_u",
+      "tau_r"
+    ],
+    "measurements": [
+      "omega_u_meas",
+      "omega_r_meas",
+      "T_raw"
+    ],
+    "Ju_kg_m2": 0.00793,
+    "Bu_N_m_s_per_rad": 0.0101,
+    "Jr_kg_m2": 0.0043367,
+    "Br_N_m_s_per_rad": 0.010292,
+    "ru_m": 0.04,
+    "rr_m": 0.05,
+    "k_model_declared_N_per_m": 1.79,
+    "H": [
+      [
+        1,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        0
+      ],
+      [
+        0,
+        0,
+        1
+      ]
+    ],
+    "Qc_diagonal": [
+      10,
+      10,
+      0.05
+    ],
+    "Rc_diagonal": [
+      0.0001,
+      0.0001,
+      0.015
+    ],
+    "Qd_rule": "Qc * Ts",
+    "Rd_rule": "Rc / Ts",
+    "initial_state": "first measurement vector",
+    "Pinit_diagonal": [
+      0.001,
+      0.001,
+      0.01
+    ],
+    "discretization": "forward Euler",
+    "reset": "first sample of each supplied segment"
+  },
+  "rls": {
+    "C": 1,
+    "lambda": 0.98,
+    "P0": 100,
+    "R": 0.001,
+    "x0": 0,
+    "forgetting_order": "after measurement update",
+    "reset": "first sample of each supplied segment",
+    "lattice_order": null
+  },
+  "offline_checks": {
+    "lambda": [
+      0.9,
+      0.95,
+      0.98,
+      0.99,
+      0.995
+    ],
+    "P0": [
+      0.001,
+      1,
+      100,
+      10000
+    ],
+    "R": [
+      0.0001,
+      0.001,
+      0.01
+    ],
+    "x0": [
+      -0.2,
+      0,
+      0.2
+    ],
+    "trend_cutoff_hz": [
+      1,
+      2,
+      5,
+      10
+    ],
+    "trend_edge_trim_s": [
+      0,
+      1
+    ],
+    "butterworth_order": 4,
+    "butterworth_cutoff_hz": [
+      2,
+      5,
+      10,
+      20
+    ],
+    "lms_mu": [
+      0.005,
+      0.01,
+      0.02,
+      0.05
+    ],
+    "lower_kf_substitution_declared_N_per_m": 0.37
+  },
+  "analysis": {
+    "startup_exclusion_s": 1,
+    "welch_window": "hann",
+    "welch_nperseg": 4096,
+    "welch_noverlap": 2048,
+    "welch_detrend": "constant",
+    "attenuation_bands_hz": [
+      [
+        0.5,
+        5
+      ],
+      [
+        5,
+        50
+      ],
+      [
+        50,
+        450
+      ]
+    ],
+    "primary_trend_cutoff_hz": 5,
+    "trend_filter": "fourth-order zero-phase Butterworth applied to input and outputs",
+    "lag_search_ms": [
+      -250,
+      250
+    ],
+    "matched_duration_interval_s": [
+      1,
+      15
+    ]
+  }
+}

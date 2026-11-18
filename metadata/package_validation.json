@@ -1,0 +1,68 @@
+{
+  "prepared_on": "2026-11-18",
+  "package_version": "0.1.0",
+  "status": "numerical and packaging checks passed; author provenance checks remain as documented",
+  "python_versions": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  },
+  "matplotlib": "3.10.8",
+  "unchanged_data_files": 160,
+  "verified_segments": 40,
+  "rls_max_abs_error_n": 0.0,
+  "kf_max_abs_error_n": 5.950795411990839e-14,
+  "kf_state_max_abs_error": 5.950795411990839e-14,
+  "result_comparison": {
+    "status": "passed",
+    "csv_files": [
+      {
+        "file": "baseline_metrics.csv",
+        "rows": 320
+      },
+      {
+        "file": "cutoff_sensitivity.csv",
+        "rows": 320
+      },
+      {
+        "file": "equal_duration_metrics.csv",
+        "rows": 80
+      },
+      {
+        "file": "initialization_sensitivity.csv",
+        "rows": 320
+      },
+      {
+        "file": "kf_stiffness_replay.csv",
+        "rows": 20
+      },
+      {
+        "file": "primary_metrics.csv",
+        "rows": 80
+      },
+      {
+        "file": "raw_band_power.csv",
+        "rows": 200
+      },
+      {
+        "file": "record_manifest.csv",
+        "rows": 40
+      },
+      {
+        "file": "rls_sensitivity.csv",
+        "rows": 200
+      }
+    ],
+    "summary_checked": true,
+    "relative_tolerance": 1e-07,
+    "absolute_tolerance": 1e-08,
+    "note": "Software-version strings may differ. Replay has a separate stricter 1e-10 check."
+  },
+  "regenerated_figures": 7,
+  "figure_pngs_pixel_identical_to_reference": true,
+  "font": "Times New Roman supplied locally through R2R_FONT_DIR; font files excluded",
+  "matlab_execution_performed": false,
+  "hardware_experiments_performed_during_packaging": false,
+  "github_publication_performed": false,
+  "scope": "Checks establish byte integrity and numerical correspondence. Sensor channel provenance and stiffness conversion remain author checks."
+}
