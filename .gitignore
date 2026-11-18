@@ -1,0 +1,14 @@
+# Reproduction output is separate from supplied reference results.
+/generated/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+*.asv
+*.m~
+*.log
+# Credentials and local configuration do not belong in a research release.
+.env
+.env.*

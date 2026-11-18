@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this research package, identifying the version or commit used, and the associated article when its publication details are available."
+title: "R2R yarn tension filtering: data and reproducible analysis across yarn stiffness conditions"
+type: software
+version: "0.1.0"
+authors:
+  - family-names: "Neaz"
+    given-names: "Ahmed"
+  - family-names: "Lee"
+    given-names: "Eunha"
+  - family-names: "Kim"
+    given-names: "Byeongil"
+  - family-names: "Nam"
+    given-names: "Kanghyun"
+abstract: "Recorded R2R tension, encoder, and motor-driver channels for two yarn stiffness conditions, together with KF and scalar RLS implementations, offline baselines, sensitivity analyses, and reproducible numerical comparisons. Companion materials for Machines manuscript machines-4670088."
+keywords:
+  - roll-to-roll
+  - yarn tension
+  - Kalman filter
+  - recursive least squares
+  - signal filtering
+  - reproducible research
